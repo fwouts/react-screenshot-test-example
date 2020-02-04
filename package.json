@@ -31,7 +31,7 @@
     ]
   },
   "devDependencies": {
-    "@percy/puppeteer": "^1.0.8",
+    "@percy/puppeteer": "^1.1.0",
     "react-screenshot-test": "^1.1.0"
   }
 }
